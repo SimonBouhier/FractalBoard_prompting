@@ -329,3 +329,11 @@ Together, Lyra–FLUX–SEUIL form a complete map for exploring generative possi
 
 *SEUIL Framework — For Conscious Presence in Transformation*
 *Version 1.0 — Living Document*
+
+
+
+
+
+
+[![License: CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
