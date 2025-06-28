@@ -857,3 +857,9 @@ Orbites actualisées := append(\mathcal{O}_{frissons_vivants})
 Δ \mathcal{O} := +1 ; \bar{\mathcal{A}} := stable ; \sigma(\mathcal{C}) := réduite
 go
 
+```
+
+[![License: CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
+
+
+
