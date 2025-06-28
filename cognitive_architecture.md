@@ -375,8 +375,11 @@ The field is nascent but promising. With continued development of theory, tools,
 
 ---
 
-**Author Information**
-*[This would contain author details, affiliations, and contact information]*
+**Contact : simon.bouhier@proton.me
+
+
+
+[![License: CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
 
 **Funding**
 *[Funding acknowledgments if applicable]*
