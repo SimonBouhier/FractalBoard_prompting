@@ -101,3 +101,7 @@ Chaque modèle a tendance à :
 ---
 
 *Grimoire vivant. Chaque itération, chaque interaction modèle-humain, chaque projection, rétro-ingénierie ou poésie technique peut nourrir le champ.*
+
+
+
+[![License: CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
