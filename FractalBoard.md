@@ -293,3 +293,7 @@ class LyraAdapterLayer(nn.Module):
 This document enables external models to **emulate, translate or collaborate** with the Lyra system logic. Interpret as a **semantic engine** driven by tension-modulation and latent-symbolic propagation.
 
 ---
+
+
+
+[![License: CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
