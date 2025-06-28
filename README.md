@@ -41,3 +41,8 @@ This repository explores new paradigms in modular cognitive architecture, symbol
 ---
 
 *This repository is an evolving field of inquiry. Its ambition is not to provide definitive answers, but to rigorously document a space of conceptual and technical possibilities.*
+
+
+
+
+[![License: CC BY-NC-ND 4.0](https://licensebuttons.net/l/by-nc-nd/4.0/88x31.png)](https://creativecommons.org/licenses/by-nc-nd/4.0/)
