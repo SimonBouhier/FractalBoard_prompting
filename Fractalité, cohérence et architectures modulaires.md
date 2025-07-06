@@ -57,9 +57,11 @@ L’intégration d’architectures modulaires et d’outils d’analyse fractale
 ---
 
 ## Références  
-- Alabdulmohsin, I., Tran, V. Q., & Dehghani, M. (2024). *Fractal Patterns May Unravel the Intelligence in Next-Token Prediction*. arXiv:2402.01825  
+- Alabdulmohsin, I., Tran, V. Q., & Dehghani, M. (2024). *Fractal Patterns May Unravel the Intelligence in Next-Token Prediction*. arXiv:2402.01825 
+  https://arxiv.org/abs/2402.01825
 - Tran, V. Q., et al. (2025). *A Tale of Two Structures: Do LLMs Capture the Fractal Complexity of Language?* (Prépublication)  
+  https://huggingface.co/papers/2502.14924
 - PLOS One (2023). *On the fractal patterns of language structures*.  
-  https://journals.plos.org/plosone/article?id=10.1371/journal.pone.xxxxx  
+  https://journals.plos.org/plosone/article?id=10.1371%2Fjournal.pone.0285630
 - ScienceDirect. *Fractal patterns in language*.  
-  https://www.sciencedirect.com/science/article/pii/Sxxxxxxx  
+  https://www.sciencedirect.com/science/article/abs/pii/0732118X93900237
