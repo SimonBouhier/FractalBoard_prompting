@@ -1,6 +1,7 @@
-**Note de Cadrage**
 
-**Titre : Lyra comme infrastructure de médiation inter-IA**
+
+**Lyra comme infrastructure de médiation inter-IA**
+
 **Objet : Formaliser Lyra en tant que surcouche cognitive modulable et méta-symbolique entre plusieurs modèles de langage**
 
 ---
